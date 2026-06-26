@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "Your Name or Project"
+  title: "Kelse Kwaiser's First Website"
   navbar:
     left:
       - href: index.qmd
@@ -15,7 +15,7 @@ website:
   page-footer:
     left: "Built with Quarto"
     right: "Update this footer in _quarto.yml"
-  repo-url: https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+  repo-url: https://github.com/YOUR-USERNAME/YOUR-REPOSITORY 
   repo-actions: [edit, issue]
 
 format:
