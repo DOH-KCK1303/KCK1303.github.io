@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "Welcome to the wild world of Kelse"
 ---
 
 ::: {.hero}
@@ -13,7 +13,7 @@ Write a short introduction that tells visitors who you are, what this site is ab
 
 ## What I do
 
-Replace this section with two or three sentences about your work, interests, research, community, or project.
+I manage the data system that supports the statewide Ryan White program. When I am not at work I am kissing my dogs, thrifting, sewing or adventuring
 
 ## Featured work
 
