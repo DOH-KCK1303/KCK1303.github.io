@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the wild world of Kelse"
+title: "Welcome to the wild wild world of Kelse"
 ---
 
 ::: {.hero}
